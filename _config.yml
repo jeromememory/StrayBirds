@@ -65,7 +65,7 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
+    name: jeromememory
     email: xkzbeta@outlook.comment
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
@@ -115,15 +115,15 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: jeromememory
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: Hysterical
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
-disqusname: minixalpha
+disqusname: jeromememory
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
